@@ -1,0 +1,20 @@
+body {
+    background: darkgray;
+
+}
+
+
+.games {
+    text-align: center;
+    margin-top: 2rem;
+    background: darkgray;
+}
+
+.nav {
+    background-color: cornflowerblue;
+    height: 120px;
+    padding-top: 1rem;
+    text-align: center;
+    color: cornsilk;
+
+}
