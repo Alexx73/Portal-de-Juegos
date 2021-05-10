@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 90%;
+    max-width: 720px;
+    margin: 0 auto;
+    border: 2px solid magenta;
+}
+
 body {
     height: 100vh;
     background-color: #060AB2;
@@ -22,12 +29,12 @@ body {
 }
 
 .memory-game {
-width: 600px;
-height: 600px;
+width: 80%;
+height: 80%;
 display: flex;
 flex-wrap: wrap;
 border: 2px solid lime;
-margin: auto;
+margin: 3%  auto;
 perspective: 1000px;
 }
 
